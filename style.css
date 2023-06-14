@@ -1,0 +1,36 @@
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Heading style */
+h1 {
+  text-align: center; 
+}
+
+/* Form element styles */ 
+form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;  
+  font-size: 16px;
+  background: tomato;
+  color: white;
+  border: none;   
+}
+
+/* Result styles */
+.result {
+  background: lightgreen;
+  padding: 20px; 
+  margin-top: 20px;
+  text-align: center;
+}
